@@ -1,0 +1,35 @@
+/* Navbar dropdown background */
+.navbar-nav {
+  background-color: #ddd;
+  margin: 0;
+}
+
+/* Espaço abaixo do título Our Menu */
+h1 {
+  margin-bottom: 30px;
+}
+
+
+/* Corrige espaçamento lateral ao usar container-fluid */
+.container-fluid .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Box principal */
+.menu-section {
+  background-color: #e6e6e6;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+/* Remove espaço acima dos títulos da box */
+.menu-section h2,
+.menu-section h3 {
+  margin-top: 0;
+}
+
+/* Navbar spacing */
+.navbar {
+  margin-bottom: 20px;
+}
